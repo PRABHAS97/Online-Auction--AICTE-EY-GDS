@@ -1,5 +1,5 @@
 import React from 'react';
-import auctionImage from './AuctionImagejpg'; 
+import auctionImage from './AuctionImage.jpg'; 
 
 function Landing() {
   return (
